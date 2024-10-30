@@ -1,0 +1,52 @@
+.nsbp-admin-column-left
+{
+	width:60%;
+	display:block; background: none repeat scroll 0 0 #FFFFFF;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2); padding:15px;
+	margin-right:2%;
+	float:left;
+}
+.nsbp-plugin-title {text-align:center; font-style:uppercase;}
+
+.nsbp-admin-column-left div.updated {border:1px solid #d6d6d6 !important;     background-color: #FFFFFF;
+    border-left: 4px solid #7AD03A !important;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+    padding: 1px 12px;}
+
+.nsbp-admin-column-right
+{
+	width:30%;
+	float:left;
+	display:block; background: none repeat scroll 0 0 #FFFFFF;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2); padding:15px;
+}
+
+.nsbp-admin-column-left table tr
+{
+
+}
+.nsbp-admin-column-left table
+{
+    border: 1px solid #DBDBDB;
+    box-shadow: 1px 1px 3px 0 rgba(180, 180, 180, 0.2);
+    margin: 0 0 20px;
+    text-align: left;
+	border-collapse: collapse;
+    border-spacing: 0;
+}
+.nsbp-admin-column-left table th
+{
+	background:#f8f8f8;
+	font-size:12px;
+    border: medium none;
+    padding: 15px 20px;
+	margin:0px 0px 5px 0px;
+	border:1px solid #d6d6d6;
+}
+.nsbp-admin-column-left table td
+{
+    border: medium none;
+    border:1px solid #d6d6d6;    
+}
+.nsbp-plugin-title,.nsbp-admin-column-right h4 {border-bottom:1px dashed #d6d6d6;}
+.nsbp-admin-column-right h4 {padding-bottom:5px; font-size:17px; text-transform:uppercase; text-align:center;}
